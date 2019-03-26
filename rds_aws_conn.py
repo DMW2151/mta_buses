@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Utility function, creates a cursor to interact with that database (mta_bus)
-@author: Dustin.Wilson
 """
 import os
 import configparser

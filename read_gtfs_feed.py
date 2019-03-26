@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Dustin.Wilson
 Runs on an EC2 instance and is scheduled to periodically (60s) call the GTFS API,
 import data to an RDS DB
 """

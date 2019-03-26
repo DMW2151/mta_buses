@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Dustin.Wilson
 Does several geography and mapping related functions.
     * Imports routelines from data download (shapes.txt)
     * Calculates distance between route nodes

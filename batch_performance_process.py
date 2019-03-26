@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Dustin.Wilson
 Contains all code for batch processes, script runs on EC2 instance, scheduled
 for 4am;
 

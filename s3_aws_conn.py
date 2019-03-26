@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Dustin.Wilson
 Upload reference data/non-RDS data to S3 - credential data added to
 environ variables at AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as specified 
 from config
